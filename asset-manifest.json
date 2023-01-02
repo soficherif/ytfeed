@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ytfeed/static/css/main.53a1f898.css",
+    "main.js": "/ytfeed/static/js/main.cbec4c72.js",
+    "static/js/787.1e4edb6d.chunk.js": "/ytfeed/static/js/787.1e4edb6d.chunk.js",
+    "static/media/water.jpg": "/ytfeed/static/media/water.e8171c96f852ea53e13f.jpg",
+    "index.html": "/ytfeed/index.html",
+    "main.53a1f898.css.map": "/ytfeed/static/css/main.53a1f898.css.map",
+    "main.cbec4c72.js.map": "/ytfeed/static/js/main.cbec4c72.js.map",
+    "787.1e4edb6d.chunk.js.map": "/ytfeed/static/js/787.1e4edb6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a1f898.css",
+    "static/js/main.cbec4c72.js"
+  ]
+}
